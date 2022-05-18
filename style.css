@@ -18,17 +18,4 @@ section{
 table{
     border: 2px solid green;
 }
-.lado-esquerdo{
-    position: absolute;
-    color: blue;
-    text-align: left;
-    
 
-}
-.lado-direito{
-    position: absolute;
-    color: red;
-    text-align: right;
-    width: 50%;
-
-}
